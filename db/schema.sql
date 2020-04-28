@@ -1,4 +1,4 @@
-create database burgers_db;
+create database burgers1_db;
 
 CREATE TABLE burgers  (
 id INT NOT NULL AUTO_INCREMENT,
